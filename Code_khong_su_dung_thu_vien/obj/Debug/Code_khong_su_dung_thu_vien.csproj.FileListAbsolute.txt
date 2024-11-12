@@ -1,0 +1,7 @@
+E:\C#\NET\Code_web\Code_khong_su_dung_thu_vien\bin\Debug\Code_khong_su_dung_thu_vien.exe.config
+E:\C#\NET\Code_web\Code_khong_su_dung_thu_vien\bin\Debug\Code_khong_su_dung_thu_vien.exe
+E:\C#\NET\Code_web\Code_khong_su_dung_thu_vien\bin\Debug\Code_khong_su_dung_thu_vien.pdb
+E:\C#\NET\Code_web\Code_khong_su_dung_thu_vien\obj\Debug\Code_khong_su_dung_thu_vien.csproj.AssemblyReference.cache
+E:\C#\NET\Code_web\Code_khong_su_dung_thu_vien\obj\Debug\Code_khong_su_dung_thu_vien.csproj.CoreCompileInputs.cache
+E:\C#\NET\Code_web\Code_khong_su_dung_thu_vien\obj\Debug\Code_khong_su_dung_thu_vien.exe
+E:\C#\NET\Code_web\Code_khong_su_dung_thu_vien\obj\Debug\Code_khong_su_dung_thu_vien.pdb

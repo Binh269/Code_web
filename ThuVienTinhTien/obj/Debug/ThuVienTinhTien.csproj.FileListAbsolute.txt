@@ -1,0 +1,6 @@
+E:\C#\NET\Code_web\ThuVienTinhTien\bin\Debug\ThuVienTinhTien.dll
+E:\C#\NET\Code_web\ThuVienTinhTien\bin\Debug\ThuVienTinhTien.pdb
+E:\C#\NET\Code_web\ThuVienTinhTien\obj\Debug\ThuVienTinhTien.csproj.AssemblyReference.cache
+E:\C#\NET\Code_web\ThuVienTinhTien\obj\Debug\ThuVienTinhTien.csproj.CoreCompileInputs.cache
+E:\C#\NET\Code_web\ThuVienTinhTien\obj\Debug\ThuVienTinhTien.dll
+E:\C#\NET\Code_web\ThuVienTinhTien\obj\Debug\ThuVienTinhTien.pdb

@@ -1,0 +1,12 @@
+E:\C#\NET\Code_web\AppGUI\bin\Debug\AppGUI.exe
+E:\C#\NET\Code_web\AppGUI\bin\Debug\AppGUI.pdb
+E:\C#\NET\Code_web\AppGUI\obj\Debug\AppGUI.csproj.AssemblyReference.cache
+E:\C#\NET\Code_web\AppGUI\obj\Debug\AppGUI.Form1.resources
+E:\C#\NET\Code_web\AppGUI\obj\Debug\AppGUI.Properties.Resources.resources
+E:\C#\NET\Code_web\AppGUI\obj\Debug\AppGUI.csproj.GenerateResource.cache
+E:\C#\NET\Code_web\AppGUI\obj\Debug\AppGUI.csproj.CoreCompileInputs.cache
+E:\C#\NET\Code_web\AppGUI\obj\Debug\AppGUI.exe
+E:\C#\NET\Code_web\AppGUI\obj\Debug\AppGUI.pdb
+E:\C#\NET\Code_web\AppGUI\bin\Debug\ThuVienTinhTien.dll
+E:\C#\NET\Code_web\AppGUI\bin\Debug\ThuVienTinhTien.pdb
+E:\C#\NET\Code_web\AppGUI\obj\Debug\AppGUI.csproj.Up2Date

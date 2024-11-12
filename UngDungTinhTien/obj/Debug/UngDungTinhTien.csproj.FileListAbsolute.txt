@@ -1,0 +1,10 @@
+E:\C#\NET\Code_web\UngDungTinhTien\bin\Debug\UngDungTinhTien.exe.config
+E:\C#\NET\Code_web\UngDungTinhTien\bin\Debug\UngDungTinhTien.exe
+E:\C#\NET\Code_web\UngDungTinhTien\bin\Debug\UngDungTinhTien.pdb
+E:\C#\NET\Code_web\UngDungTinhTien\bin\Debug\ThuVienTinhTien.dll
+E:\C#\NET\Code_web\UngDungTinhTien\bin\Debug\ThuVienTinhTien.pdb
+E:\C#\NET\Code_web\UngDungTinhTien\obj\Debug\UngDungTinhTien.csproj.AssemblyReference.cache
+E:\C#\NET\Code_web\UngDungTinhTien\obj\Debug\UngDungTinhTien.csproj.CoreCompileInputs.cache
+E:\C#\NET\Code_web\UngDungTinhTien\obj\Debug\UngDungT.09CCE61E.Up2Date
+E:\C#\NET\Code_web\UngDungTinhTien\obj\Debug\UngDungTinhTien.exe
+E:\C#\NET\Code_web\UngDungTinhTien\obj\Debug\UngDungTinhTien.pdb

@@ -1,0 +1,10 @@
+E:\C#\NET\Code_web\web_api\obj\Debug\web_api.csproj.AssemblyReference.cache
+E:\C#\NET\Code_web\web_api\obj\Debug\web_api.csproj.CoreCompileInputs.cache
+E:\C#\NET\Code_web\web_api\bin\web_api.dll.config
+E:\C#\NET\Code_web\web_api\bin\web_api.dll
+E:\C#\NET\Code_web\web_api\bin\web_api.pdb
+E:\C#\NET\Code_web\web_api\bin\ThuVienTinhTien.dll
+E:\C#\NET\Code_web\web_api\bin\ThuVienTinhTien.pdb
+E:\C#\NET\Code_web\web_api\obj\Debug\web_api.csproj.Up2Date
+E:\C#\NET\Code_web\web_api\obj\Debug\web_api.dll
+E:\C#\NET\Code_web\web_api\obj\Debug\web_api.pdb

@@ -1,0 +1,2 @@
+- Web sử dụng c# gọi trực tiếp file aspx để sử lý 
+- Web cũng đã được desgin và có lọc điều kiện đầu vào

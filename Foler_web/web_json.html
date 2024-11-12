@@ -1,0 +1,43 @@
+﻿﻿
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Tính tiền máy tính</title>
+    <link href="styles.css" rel="stylesheet" />
+    <script src="jquery.min.js"></script>
+    <script src="script1.js"></script>
+
+</head>
+<body>
+    <div class="form-container">
+        <div class="content-wrapper">
+            <h2 class="title">Tính tiền máy tính</h2>
+
+            <div class="input-group">
+                <label for="gio">Số giờ chơi:</label>
+                <input type="text" id="gio" class="input-box" />
+            </div>
+
+            <div class="input-group">
+                <label>Loại máy:</label>
+                <div class="checkbox-group">
+                    <input type="radio" id="thuong" name="loaimay" class="radio" value="thuong" />
+                    <label for="thuong">Máy thường (15.000đ/giờ)</label><br />
+                    <input type="radio" id="vip" name="loaimay" class="radio" value="vip" />
+                    <label for="vip">Máy VIP (20.000đ/giờ)</label>
+                </div>
+            </div>
+
+            <div class="input-group">
+                <label>Sử dụng điều hòa:</label>
+                <input type="checkbox" id="dieuhoa" class="checkbox" />
+                <label for="dieuhoa">Điều hòa (5.000đ/giờ)</label>
+            </div>
+
+            <div class="input-group">
+                <button id="tinhtien" class="btn-calculate">Tính tiền</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
